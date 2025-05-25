@@ -113,7 +113,6 @@ mvn test    # Exécuter tous les tests
 - [Repository GitHub](https://github.com/OUSSAMA-AH/MonProjetJava)
 - [Documentation Maven](https://maven.apache.org/guides/)
 - [Git Documentation](https://git-scm.com/doc)
-- [Académie Mohammed VI](https://www.aiac.ma/)
 
 ---
 
