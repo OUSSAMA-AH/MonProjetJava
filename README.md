@@ -6,7 +6,7 @@
 
 ## 📖 Description
 
-Ce projet est un exemple d'application Java utilisant Maven et Git, réalisé dans le cadre du **TP1 - Méthodes de développement DevOps** à l'Académie Internationale Mohammed VI de l'Aviation Civile.
+Ce projet est un exemple d'application Java utilisant Maven et Git, réalisé dans le cadre du **TP1 - Méthodes de développement DevOps**.
 
 ## 🎯 Objectifs du TP
 
