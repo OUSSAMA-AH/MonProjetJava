@@ -41,14 +41,6 @@ mvn clean install
 # Exécuter
 java -cp target/classes com.example.App
 ```
-
-**Sortie attendue :**
-```
-Bonjour depuis Maven et Git!
-TP1 DevOps - Académie Mohammed VI Aviation Civile
-Résultat : 8
-```
-
 ---
 
 ## 🛠️ Commandes Essentielles
@@ -98,23 +90,6 @@ MonProjetJava/
 mvn test    # Exécuter tous les tests
 # Tests run: 2, Failures: 0, Errors: 0 ✅
 ```
-
----
-
-## 🎓 Contexte Académique
-
-**Établissement :** Académie Internationale Mohammed VI de l'Aviation Civile  
-**Formation :** GI20 - Génie Informatique  
-**Module :** Méthodes de développement  
-**TP :** Initiation aux outils DevOps  
-
----
-
-## 👨‍💻 Auteur
-
-**OUSSAMA-AH** - Étudiant GI20  
-📧 Contact via GitHub Issues  
-🏫 Académie Mohammed VI Aviation Civile  
 
 ---
 
