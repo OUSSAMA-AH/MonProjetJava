@@ -3,11 +3,10 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Java Version](https://img.shields.io/badge/java-11+-orange.svg)]()
 [![Maven](https://img.shields.io/badge/maven-3.9+-blue.svg)]()
-[![Academy](https://img.shields.io/badge/AIAC-Mohammed%20VI-blue.svg)]()
 
 ## 📖 Description
 
-Application Java démonstrative développée pour le **TP1 DevOps** à l'Académie Mohammed VI de l'Aviation Civile. Intégration complète des outils modernes : **Maven**, **Git**, et **GitHub**.
+Application Java démonstrative développée pour le **TP1 DevOps** . Intégration complète des outils modernes : **Maven**, **Git**, et **GitHub**.
 
 ---
 
